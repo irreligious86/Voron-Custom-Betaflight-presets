@@ -1,0 +1,10 @@
+vtxtable
+vtxtable bands 2
+vtxtable channels 8
+vtxtable band 1 A        A CUSTOM  1080 1120 1160 1200 1240 1258 1280 1320
+vtxtable band 2 B        B CUSTOM  1360    0    0    0    0    0    0    0
+vtxtable powerlevels 2
+vtxtable powervalues 25 800
+vtxtable powerlabels 25 800
+
+# 
